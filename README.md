@@ -1,5 +1,5 @@
 ---
-##As seen on https://medium.com/@kisalnelaka6/building-a-blockchain-powered-encrypted-chat-application-with-python-103f116fad34
+## As seen on https://medium.com/@kisalnelaka6/building-a-blockchain-powered-encrypted-chat-application-with-python-103f116fad34
 
 # Blockchain-Based Encrypted LAN Chat Application
 
