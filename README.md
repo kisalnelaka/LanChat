@@ -165,7 +165,7 @@ Feel free to fork this repository, make changes, and create pull requests. Contr
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the BSL-1.0 license.
 
 ---
 
